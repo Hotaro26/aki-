@@ -5,3 +5,4 @@
 - translation (which is broken as of now)
 
 
+rn to lazy to write more...might update my readme later....
