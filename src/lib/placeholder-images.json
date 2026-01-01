@@ -1,0 +1,88 @@
+{
+  "placeholderImages": [
+    {
+      "id": "avatar-default",
+      "description": "A placeholder avatar image for the user profile.",
+      "imageUrl": "https://i.pinimg.com/736x/e7/75/c1/e775c1ab5763332375a80e534bc36c33.jpg",
+      "imageHint": "portrait"
+    },
+    {
+      "id": "avatar-alt",
+      "description": "An alternative placeholder avatar image for the user profile.",
+      "imageUrl": "https://i.pinimg.com/736x/8f/2a/0b/8f2a0b959ee78d159d92665d830c091c.jpg",
+      "imageHint": "portrait anime"
+    },
+    {
+      "id": "carousel-1",
+      "description": "User-provided carousel image.",
+      "imageUrl": "https://i.pinimg.com/1200x/b1/9c/a4/b19ca48db8f233942d96ce38669cae3a.jpg",
+      "imageHint": "anime scenery"
+    },
+    {
+      "id": "carousel-2",
+      "description": "User-provided carousel image.",
+      "imageUrl": "https://i.pinimg.com/736x/4e/10/95/4e1095b4da66926cac0bd3c9c1b2db77.jpg",
+      "imageHint": "anime girl"
+    },
+    {
+      "id": "carousel-3",
+      "description": "User-provided carousel image.",
+      "imageUrl": "https://i.pinimg.com/1200x/1f/b7/77/1fb7776d9c2a251665a9b035a547de41.jpg",
+      "imageHint": "anime scenery"
+    },
+    {
+      "id": "carousel-4",
+      "description": "User-provided carousel image.",
+      "imageUrl": "https://i.pinimg.com/736x/18/1a/96/181a967dabf3285702eab79d90e01d92.jpg",
+      "imageHint": "anime girl"
+    },
+    {
+      "id": "carousel-5",
+      "description": "User-provided carousel image.",
+      "imageUrl": "https://i.pinimg.com/1200x/fe/5c/ae/fe5caeb03a0cb1fac7e9148b6b735ccc.jpg",
+      "imageHint": "anime boy"
+    },
+    {
+      "id": "carousel-6",
+      "description": "User-provided carousel image.",
+      "imageUrl": "https://i.pinimg.com/736x/4e/5c/53/4e5c53768da7d794a399cd09d4122aab.jpg",
+      "imageHint": "anime scenery"
+    },
+    {
+      "id": "carousel-7",
+      "description": "User-provided carousel image.",
+      "imageUrl": "https://i.pinimg.com/736x/c4/61/de/c461de4ad4a0f622426df9ff07e230d1.jpg",
+      "imageHint": "anime scenery"
+    },
+    {
+      "id": "carousel-8",
+      "description": "User-provided carousel image.",
+      "imageUrl": "https://i.pinimg.com/736x/61/99/ef/6199efd6d2d1a52755a1f5b9d6283f42.jpg",
+      "imageHint": "anime girl"
+    },
+    {
+      "id": "carousel-9",
+      "description": "User-provided carousel image.",
+      "imageUrl": "https://i.pinimg.com/736x/05/5c/8c/055c8c9a85c8ad473851d310e0f4174e.jpg",
+      "imageHint": "anime boy"
+    },
+    {
+      "id": "carousel-10",
+      "description": "User-provided carousel image.",
+      "imageUrl": "https://i.pinimg.com/736x/cb/f0/b7/cbf0b76d89de89839819b774269ff088.jpg",
+      "imageHint": "anime girl"
+    },
+    {
+      "id": "carousel-11",
+      "description": "User-provided carousel image.",
+      "imageUrl": "https://i.pinimg.com/736x/d6/4f/ad/d64fad416c52bee461fc185a0118aba8.jpg",
+      "imageHint": "anime scenery"
+    },
+    {
+      "id": "carousel-12",
+      "description": "User-provided carousel image.",
+      "imageUrl": "https://i.pinimg.com/736x/0b/1d/01/0b1d01c03c7e5a69a92cae9696a528a6.jpg",
+      "imageHint": "anime scenery"
+    }
+  ]
+}
