@@ -462,7 +462,7 @@ export default function Home() {
                                 <Copy className="ml-2 mr-4 h-5 w-5 text-foreground/80 transition-colors group-hover:text-primary" />
                                 <div className="flex flex-col items-start">
                                   <span className="transition-colors group-hover:text-primary">Alt Account</span>
-                                  <span className="text-xs text-muted-foreground">outrageous_pomelo_15444</span>
+                                  <span className="text-xs text-muted-foreground">Deleted</span>
                                 </div>
                                 {altStatus && (
                                     <Badge variant="secondary" className="ml-auto text-xs font-medium self-center">
