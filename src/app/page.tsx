@@ -224,8 +224,8 @@ export default function Home() {
   const handleOtherLinkClick = (platform: string, url: string) => {
     if (platform === 'instagram') {
       toast({
-        title: "Instagram? Nah.",
-        description: "You thought you'd find a curated feed of my life? I'd rather not.",
+        title: "oi.hotaro",
+        description: "I dont use it much tho, mostly its disabled.",
       });
       return;
     }
@@ -457,7 +457,7 @@ export default function Home() {
                               <Button
                                 variant="secondary"
                                 className={cn("w-full justify-start h-14 text-md bg-secondary/30 transition-all duration-300 ease-in-out transform border border-transparent group", animationsEnabled && "hover:bg-secondary/80 hover:text-primary hover:scale-[1.02] hover:border-primary")}
-                                onClick={() => copyToClipboard('outrageous_pomelo_15444', 'Discord')}
+                                onClick={() => copyToClipboard('Deleted', 'Discord')}
                               >
                                 <Copy className="ml-2 mr-4 h-5 w-5 text-foreground/80 transition-colors group-hover:text-primary" />
                                 <div className="flex flex-col items-start">
@@ -781,7 +781,7 @@ export default function Home() {
                                 </CardHeader>
                                 <CardContent>
                                 <p className="text-sm text-muted-foreground">
-                                    MBTI: INTJ. I'm a minor who likes cats and eating yummy foods! I love watching anime, reading manga and self-improvement books. I listen to music a lot too. I hate rude and impulsive human beings. I've a bad habit of overthinking every stuff...
+                                    MBTI: INTJ. I'm a minor who likes cats and eating yummy foods! I love watching anime, reading manga and self-improvement books. I listen to music a lot too. I hate rude and impulsive human beings. Also I've a bad habit of overthinking every stuff...
                                 </p>
                                 </CardContent>
                             </Card>
