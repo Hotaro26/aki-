@@ -368,7 +368,7 @@ export default function Home() {
                 </Tooltip>
               </TooltipProvider>
               <p className="text-muted-foreground mt-1 font-description">
-                artist, developer, and music enthusiast.
+                 junior developer, and music enthusiast.
               </p>
               {lanyardData && (
                 <Badge variant="secondary" className="mt-4">
